@@ -1,0 +1,601 @@
+,MeSH,count
+0,Obesity,174054
+1,"Diabetes Mellitus, Type 2",122377
+2,Diabetes Mellitus,113345
+3,"Diabetes Mellitus, Type 1",74556
+4,Insulin Resistance,54157
+5,"Diabetes Mellitus, Experimental",42695
+6,Osteoporosis,42320
+7,Calcinosis,37103
+8,Metabolic Syndrome,28648
+9,Metabolic Syndrome,28648
+10,Hyperlipidemias,27120
+11,Hyperglycemia,26983
+12,Hypoglycemia,26828
+13,Hypercholesterolemia,25953
+14,Amyloidosis,20048
+15,Celiac Disease,19507
+16,Nutrition Disorders,19427
+17,Amyotrophic Lateral Sclerosis,18032
+18,"Obesity, Morbid",17797
+19,Acidosis,17697
+20,Vitamin D Deficiency,14333
+21,Dehydration,13055
+22,Metabolic Diseases,12989
+23,Hypercalcemia,12871
+24,Hypercalcemia,12871
+25,"Osteoporosis, Postmenopausal",12755
+26,Malnutrition,11980
+27,Gout,10737
+28,"Metabolism, Inborn Errors",10679
+29,Starvation,10496
+30,Hepatic Encephalopathy,10300
+31,Dyslipidemias,10005
+32,"Anemia, Iron-Deficiency",9418
+33,"Diabetes, Gestational",9268
+34,Hyponatremia,8922
+35,Hyperinsulinism,8874
+36,Deficiency Diseases,8534
+37,Hypokalemia,8506
+38,Glucose Intolerance,8381
+39,Malabsorption Syndromes,8174
+40,Hemochromatosis,7966
+41,Hemochromatosis,7966
+42,Protein-Energy Malnutrition,7790
+43,"Bone Diseases, Metabolic",7462
+44,Hypocalcemia,7294
+45,Hypocalcemia,7294
+46,Porphyrias,6877
+47,Phenylketonurias,6784
+48,Phenylketonurias,6784
+49,Phenylketonurias,6784
+50,"Adrenal Hyperplasia, Congenital",6650
+51,Pediatric Obesity,6491
+52,Hyperlipoproteinemia Type II,6375
+53,Hyperlipoproteinemia Type II,6375
+54,Vitamin A Deficiency,6194
+55,Vitamin B 12 Deficiency,6171
+56,Diabetic Ketoacidosis,6133
+57,Diabetic Ketoacidosis,6133
+58,Prediabetic State,6006
+59,"Amino Acid Metabolism, Inborn Errors",6000
+60,Rickets,5917
+61,Rickets,5917
+62,Rickets,5917
+63,"Anemia, Pernicious",5865
+64,Hyperkalemia,5802
+65,Hepatolenticular Degeneration,5755
+66,Hepatolenticular Degeneration,5755
+67,Hepatolenticular Degeneration,5755
+68,Protein Deficiency,5681
+69,Hypertriglyceridemia,5669
+70,Water-Electrolyte Imbalance,5210
+71,Folic Acid Deficiency,5152
+72,Mitochondrial Diseases,5108
+73,Glucosephosphate Dehydrogenase Deficiency,4788
+74,Glycosuria,4780
+75,Osteomalacia,4732
+76,Osteomalacia,4732
+77,Osteomalacia,4732
+78,Xanthomatosis,4704
+79,Infant Nutrition Disorders,4670
+80,Gaucher Disease,4605
+81,Gaucher Disease,4605
+82,Gaucher Disease,4605
+83,Gaucher Disease,4605
+84,Gaucher Disease,4605
+85,Magnesium Deficiency,4396
+86,Alkalosis,4343
+87,"Colorectal Neoplasms, Hereditary Nonpolyposis",4236
+88,Hyperhomocysteinemia,4214
+89,Hyperhomocysteinemia,4214
+90,Hyperhomocysteinemia,4214
+91,Lipidoses,4115
+92,Lipidoses,4115
+93,Iron Overload,4113
+94,Vitamin E Deficiency,3909
+95,Severe Combined Immunodeficiency,3788
+96,Xeroderma Pigmentosum,3611
+97,Chronic Kidney Disease-Mineral and Bone Disorder,3474
+98,Chronic Kidney Disease-Mineral and Bone Disorder,3474
+99,Chronic Kidney Disease-Mineral and Bone Disorder,3474
+100,Lipodystrophy,3373
+101,Lipodystrophy,3373
+102,Vascular Calcification,3362
+103,Ataxia Telangiectasia,3271
+104,Fabry Disease,3268
+105,Fabry Disease,3268
+106,Fabry Disease,3268
+107,Fabry Disease,3268
+108,Fabry Disease,3268
+109,Child Nutrition Disorders,3225
+110,Fanconi Anemia,3201
+111,"Obesity, Abdominal",3193
+112,"Acidosis, Lactic",3181
+113,Lactose Intolerance,3140
+114,Lactose Intolerance,3140
+115,Thiamine Deficiency,3006
+116,Kwashiorkor,2856
+117,"Acidosis, Renal Tubular",2800
+118,"Acidosis, Renal Tubular",2800
+119,Prader-Willi Syndrome,2793
+120,"Lipid Metabolism, Inborn Errors",2778
+121,"Lipid Metabolism, Inborn Errors",2778
+122,"Acidosis, Respiratory",2734
+123,Avitaminosis,2675
+124,Hyperlipoproteinemias,2639
+125,Glycogen Storage Disease,2631
+126,Hemosiderosis,2604
+127,Inappropriate ADH Syndrome,2599
+128,"Carbohydrate Metabolism, Inborn Errors",2593
+129,Hypernatremia,2579
+130,Vitamin B 6 Deficiency,2572
+131,Friedreich Ataxia,2544
+132,Tetany,2533
+133,Frontotemporal Dementia,2524
+134,Acid-Base Imbalance,2502
+135,Galactosemias,2307
+136,Galactosemias,2307
+137,Galactosemias,2307
+138,Ascorbic Acid Deficiency,2305
+139,Lipomatosis,2282
+140,Mucopolysaccharidoses,2099
+141,Mucopolysaccharidoses,2099
+142,Scurvy,2074
+143,Vitamin B Deficiency,2074
+144,Neuronal Ceroid-Lipofuscinoses,2061
+145,Neuronal Ceroid-Lipofuscinoses,2061
+146,Ketosis,2056
+147,"Brain Diseases, Metabolic",2054
+148,Nephrocalcinosis,2047
+149,Adrenoleukodystrophy,2027
+150,.,2027
+151,.,2027
+152,.,2027
+153,.,2019
+154,.,1930
+155,.,1924
+156,.,1742
+157,.,1742
+158,.,1742
+159,.,1742
+160,.,1742
+161,.,1738
+162,.,1738
+163,.,1704
+164,.,1697
+165,.,1693
+166,.,1693
+167,.,1693
+168,.,1688
+169,.,1677
+170,.,1677
+171,.,1648
+172,.,1618
+173,.,1593
+174,.,1588
+175,.,1588
+176,.,1588
+177,.,1588
+178,.,1576
+179,.,1522
+180,.,1504
+181,.,1504
+182,.,1504
+183,.,1496
+184,.,1467
+185,.,1460
+186,.,1460
+187,.,1460
+188,.,1438
+189,.,1433
+190,.,1425
+191,.,1411
+192,.,1400
+193,.,1334
+194,.,1298
+195,.,1293
+196,.,1293
+197,.,1293
+198,.,1293
+199,.,1293
+200,.,1273
+201,.,1255
+202,.,1247
+203,.,1247
+204,.,1247
+205,.,1232
+206,.,1232
+207,.,1232
+208,.,1228
+209,.,1228
+210,.,1228
+211,.,1228
+212,.,1228
+213,.,1228
+214,.,1228
+215,.,1219
+216,.,1213
+217,.,1213
+218,.,1213
+219,.,1171
+220,.,1171
+221,.,1164
+222,.,1150
+223,.,1131
+224,.,1131
+225,.,1131
+226,.,1129
+227,.,1129
+228,.,1085
+229,.,1074
+230,.,1074
+231,.,1065
+232,.,1065
+233,.,1065
+234,.,1059
+235,.,1059
+236,.,1059
+237,.,1059
+238,.,1029
+239,.,1028
+240,.,1028
+241,.,1028
+242,.,1028
+243,.,1028
+244,.,1028
+245,.,1028
+246,.,1016
+247,.,1005
+248,.,1004
+249,.,1004
+250,.,1004
+251,.,1004
+252,.,989
+253,.,955
+254,.,942
+255,.,942
+256,.,941
+257,.,931
+258,.,931
+259,.,931
+260,.,926
+261,.,926
+262,.,920
+263,.,920
+264,.,920
+265,.,906
+266,.,906
+267,.,906
+268,.,898
+269,.,885
+270,.,877
+271,.,831
+272,.,795
+273,.,789
+274,.,782
+275,.,779
+276,.,770
+277,.,763
+278,.,763
+279,.,745
+280,.,734
+281,.,733
+282,.,727
+283,.,727
+284,.,727
+285,.,727
+286,.,725
+287,.,723
+288,.,721
+289,.,688
+290,.,685
+291,.,677
+292,.,677
+293,.,675
+294,.,675
+295,.,671
+296,.,671
+297,.,671
+298,.,662
+299,.,662
+300,.,662
+301,.,647
+302,.,647
+303,.,644
+304,.,644
+305,.,641
+306,.,641
+307,.,641
+308,.,641
+309,.,641
+310,.,638
+311,.,637
+312,.,617
+313,.,617
+314,.,617
+315,.,610
+316,.,605
+317,.,605
+318,.,605
+319,.,605
+320,.,605
+321,.,604
+322,.,599
+323,.,599
+324,.,585
+325,.,585
+326,.,584
+327,.,575
+328,.,575
+329,.,575
+330,.,570
+331,.,567
+332,.,567
+333,.,566
+334,.,557
+335,.,550
+336,.,549
+337,.,549
+338,.,529
+339,.,529
+340,.,520
+341,.,520
+342,.,498
+343,.,493
+344,.,491
+345,.,491
+346,.,481
+347,.,481
+348,.,481
+349,.,481
+350,.,481
+351,.,481
+352,.,481
+353,.,469
+354,.,458
+355,.,445
+356,.,445
+357,.,445
+358,.,444
+359,.,444
+360,.,433
+361,.,433
+362,.,433
+363,.,433
+364,.,433
+365,.,408
+366,.,405
+367,.,405
+368,.,405
+369,.,405
+370,.,404
+371,.,404
+372,.,404
+373,.,404
+374,.,404
+375,.,402
+376,.,402
+377,.,402
+378,.,402
+379,.,400
+380,.,400
+381,.,399
+382,.,399
+383,.,399
+384,.,386
+385,.,380
+386,.,380
+387,.,380
+388,.,380
+389,.,380
+390,.,378
+391,.,365
+392,.,365
+393,.,360
+394,.,360
+395,.,360
+396,.,359
+397,.,357
+398,.,355
+399,.,351
+400,.,349
+401,.,339
+402,.,338
+403,.,338
+404,.,314
+405,.,314
+406,.,313
+407,.,313
+408,.,309
+409,.,301
+410,.,297
+411,.,297
+412,.,295
+413,.,295
+414,.,292
+415,.,292
+416,.,292
+417,.,292
+418,.,292
+419,.,271
+420,.,271
+421,.,271
+422,.,271
+423,.,265
+424,.,265
+425,.,259
+426,.,259
+427,.,259
+428,.,258
+429,.,255
+430,.,255
+431,.,255
+432,.,247
+433,.,246
+434,.,246
+435,.,245
+436,.,245
+437,.,245
+438,.,241
+439,.,240
+440,.,240
+441,.,227
+442,.,224
+443,.,224
+444,.,218
+445,.,218
+446,.,218
+447,.,211
+448,.,211
+449,.,211
+450,.,207
+451,.,207
+452,.,207
+453,.,202
+454,.,200
+455,.,197
+456,.,188
+457,.,188
+458,.,188
+459,.,186
+460,.,186
+461,.,186
+462,.,183
+463,.,173
+464,.,173
+465,.,173
+466,.,161
+467,.,158
+468,.,154
+469,.,154
+470,.,154
+471,.,154
+472,.,153
+473,.,153
+474,.,153
+475,.,148
+476,.,148
+477,.,145
+478,.,145
+479,.,145
+480,.,145
+481,.,144
+482,.,139
+483,.,139
+484,.,139
+485,.,139
+486,.,135
+487,.,134
+488,.,134
+489,.,134
+490,.,134
+491,.,131
+492,.,128
+493,.,127
+494,.,126
+495,.,125
+496,.,124
+497,.,123
+498,.,123
+499,.,123
+500,.,123
+501,.,123
+502,.,123
+503,.,120
+504,.,120
+505,.,120
+506,.,115
+507,.,113
+508,.,113
+509,.,112
+510,.,112
+511,.,112
+512,.,112
+513,.,112
+514,.,111
+515,.,111
+516,.,108
+517,.,105
+518,.,105
+519,.,105
+520,.,101
+521,.,98
+522,.,94
+523,.,91
+524,.,91
+525,.,91
+526,.,91
+527,.,91
+528,.,79
+529,.,78
+530,.,77
+531,.,77
+532,.,77
+533,.,77
+534,.,77
+535,.,77
+536,.,77
+537,.,77
+538,.,77
+539,.,77
+540,.,77
+541,.,74
+542,.,74
+543,.,74
+544,.,74
+545,.,74
+546,.,74
+547,.,74
+548,.,74
+549,.,72
+550,.,72
+551,.,72
+552,.,72
+553,.,70
+554,.,67
+555,.,64
+556,.,62
+557,.,61
+558,.,57
+559,.,56
+560,.,56
+561,.,56
+562,.,56
+563,.,56
+564,.,47
+565,.,42
+566,.,42
+567,.,41
+568,.,41
+569,.,41
+570,.,41
+571,.,41
+572,.,37
+573,.,31
+574,.,31
+575,.,31
+576,.,31
+577,.,31
+578,.,31
+579,.,31
+580,.,31
+581,.,30
+582,.,19
+583,.,15
+584,.,13
+585,.,13
+586,.,13
+587,.,12
+588,.,12
+589,.,12
+590,.,9
+591,.,9
+592,.,5
+593,.,5
+594,.,4
+595,.,4
+596,.,4
+597,.,4
+598,.,4
+599,.,1
