@@ -12,7 +12,7 @@ var color = d3.scaleOrdinal(d3.schemeCategory20c);
 var pack = d3.pack()
     .size([width, height])
     .padding(1.5);
-d3.csv("../data/short.csv", function(d) {
+d3.csv("meta50.csv", function(d) {
   d.count = +d.count;
   if (d.count) return d;
 }, function(error, classes) {
